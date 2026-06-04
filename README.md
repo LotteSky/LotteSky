@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🌌 Hi there, I'm LotteSky!
 
-<!--
-**LotteSky/LotteSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Desktop Software & Game Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Текущие проекты / Current Projects:
+* **Aero Browser** — Кастомный веб-браузер на базе .NET 10 & WebView2 с интерфейсом в стиле Aero Glass, встроенной поддержкой расширений Chromium и оптимизацией ОЗУ.
+
+## 🧰 Технологический стек / Tech Stack:
+* **Desktop & Web:** C# / .NET 10, HTML5, CSS3, JavaScript
+* **Game Dev:** Godot Engine (GDScript), Java (IntelliJ IDEA)
+
+## 🕹 Интересы / Interests:
+* Разработка десктопных приложений и кастомных интерфейсов 💻
+* Создание игровых механик и инди-проектов 🎮
+* Реверс-инжиниринг и работа с веб-API 🛠
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LotteSky&show_icons=true&theme=dark&hide_border=true" alt="LotteSky's GitHub Stats" />
+</p>
